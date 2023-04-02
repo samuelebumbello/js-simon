@@ -6,8 +6,25 @@
 
 body{
     text-align: center;
+    background-color: rgb(30, 78, 30);
 }
 
 h1{
     padding: 30px;
+    font-size: 70px;
+    color: white;
+}
+
+#numbers{
+    padding: 10px;
+    font-size: 50px;
+}
+
+#msg1{
+    padding: 10px;
+    font-size: 30px;
+}
+#msg2{
+    padding: 10px;
+    font-size: 30px;
 }
