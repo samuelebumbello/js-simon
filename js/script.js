@@ -10,3 +10,9 @@ while (numbers.length < 5) {
     }
     console.log(numGen);
 }
+
+// Pusho i numeri random sull'HTML //
+const numDiv = document.getElementById('numbers');
+// Restituisco una stringa ai numeri dell'array //
+numDiv.innerHTML = numbers.join(' ');
+
