@@ -6,4 +6,9 @@ Dopo che sono stati inseriti i 5 numeri, il software dice quanti e quali dei num
 
 ## Steps
 
--
+-   Generare i numeri random (5).
+-   Pushare nel div HTML i numeri random.
+-   Far scomparire i numeri random con la creazione del TIMER dopo 5 sec.
+-   Chiedere all'utente di inserire i 5 numeri tramite i prompt.
+-   Individuare tramite una verifica quanti e quali numeri sono stati indovinati.
+-   Stampare il risultato
